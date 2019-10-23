@@ -1,0 +1,6 @@
+# Hello el profe dijo que vamos a realizar commits 
+ - Vamos  a usar android estudio para elaborar diferentes proyectos
+
+ - Ionic
+ - SDK OREO
+ - Android Studio
